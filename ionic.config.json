@@ -1,0 +1,8 @@
+{
+  "name": "Melly",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "85602344"
+}

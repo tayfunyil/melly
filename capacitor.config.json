@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Melly",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
